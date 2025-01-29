@@ -1,12 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/SHANTANUGONNADE/react-project/tree/main/react-game-arena-master).
+This project was bootstrapped with [Create React App](https://github.com/SHANTANUGONNADE/Arena-master).
+
+# Getting website link
+
+https://arena-master.vercel.app/
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:5175/](http://localhost:5175/) to view it in the browser.
